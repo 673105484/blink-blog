@@ -1,0 +1,4 @@
+jdbc.url=jdbc:oracle:thin:@localhost:1521:LJ
+jdbc.driverclass=oracle.jdbc.OracleDriver
+jdbc.username=ljn
+jdbc.password=123456
